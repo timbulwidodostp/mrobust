@@ -1,6 +1,8 @@
 # mrobust
 Estimate model robustness and model influence Use mrobust With STATA 18
 
+https://www.youtube.com/watch?v=cOF-UmslqQw
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
